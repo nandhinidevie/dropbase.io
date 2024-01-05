@@ -210,7 +210,7 @@ text-align: center
 
 Build apps for your customer success and ops teams today
 
--- ds.button: Book Demo
+-- ds.primary-button: Book Demo
 link: /
 
 -- end: ds.section-column
@@ -561,7 +561,7 @@ margin: $ds.spaces.vertical-gap.medium
 -- ds.row:
 align-content: left
 
--- ds.button: Book Demo
+-- ds.primary-button: Book Demo
 link: /
 
 -- ds.phosphor-icon-button: Documentation
@@ -642,7 +642,7 @@ link: /search/
 -- ds.header-link: Log In
 link: /
 
--- ds.button: Book demo
+-- ds.primary-button: Book demo
 link: /
 
 -- end: ds.row
