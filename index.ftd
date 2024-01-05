@@ -1,4 +1,5 @@
 -- import: fastn-community.github.io/design-system as ds
+-- import: fastn-community.github.io/svg-icons/phosphor
 
 -- ds.page-widths widths:
 regular.px: 1200
