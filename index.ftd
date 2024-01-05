@@ -206,7 +206,7 @@ inner-background.solid: $ds.colors.background.step-1
 inset: $ds.spaces.inset-wide.medium
 
 -- ds.copy-large: 
-text-align: center
+align: center
 
 Build apps for your customer success and ops teams today
 
@@ -314,10 +314,10 @@ margin: $ds.spaces.vertical-gap.extra-large
 inset: $ds.spaces.inset-wide.medium
 
 -- ds.heading-hero: Turn any SQL SELECT into an admin panel with Smart Tables.
-text-align: center
+align: center
 
 -- ds.copy-large:
-text-align: center
+align: center
 
 Convert any SQL select statement into an admin panel that lets you search and edit your data. It even works with JOIN statements without writing any additional queries or functions. Build admin panels in seconds.
 
